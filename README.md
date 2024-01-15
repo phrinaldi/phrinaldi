@@ -4,7 +4,7 @@
 
 - 🌱 Estou demonstrando o que sei sobre **Estatística, Python, Power BI, SQL**
 
-- 👨‍💻 Todos os meus projetos estão em [https://github.com/phrinaldi/](https://github.com/phrinaldi/)
+- 👨‍💻 Todos os meus projetos estão em [https://github.com/phrinaldi/](https://github.com/phrinaldi/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
