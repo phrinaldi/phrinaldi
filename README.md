@@ -2,7 +2,7 @@
 <h3 align="center">Análise e Ciência de Dados</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
-- 🌱 Estou demonstrando o que sei sobre **Estatística, Python, Power BI, SQL**
+- 🌱 Estou demonstrando o que sei sobre **Estatística, Python, Power BI, SQL, Power Automate, Power Apps**
 
 - 👨‍💻 Todos os meus projetos estão em [https://github.com/phrinaldi/](https://github.com/phrinaldi/)  
 
